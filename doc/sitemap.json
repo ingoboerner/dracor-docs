@@ -1,0 +1,117 @@
+[
+  {
+    "label": "About",
+    "items": [
+      {
+        "label": "What Is DraCor?",
+        "href": "/doc/what-is-dracor"
+      },
+      {
+        "label": "Corpus Registry",
+        "href": "/doc/corpora"
+      },
+      {
+        "label": "Credits",
+        "href": "/doc/credits"
+      },
+      {
+        "label": "Get in Touch",
+        "href": "/doc/get-in-touch"
+      },
+      {
+        "label": "DraCor Moments",
+        "href": "/doc/dracor-moments"
+      },
+      {
+        "label": "DraCor Summit 2025",
+        "href": "https://summit.dracor.org/"
+      },
+      {
+        "label": "Merch",
+        "href": "/doc/merch"
+      },
+      {
+        "label": "Media Kit",
+        "href": "/doc/media-kit"
+      },
+      {
+        "label": "Imprint",
+        "href": "/doc/imprint-and-gdpr"
+      }
+    ]
+  },
+  {
+    "component": "CorporaDropdown"
+  },
+  {
+    "label": "Documentation",
+    "items": [
+      {
+        "label": "API",
+        "href": "/doc/api"
+      },
+      {
+        "label": "API v0 (legacy)",
+        "href": "/doc/legacy/api"
+      },
+      {
+        "label": "Encoding Guidelines (ODD)",
+        "href": "/doc/odd"
+      },
+      {
+        "label": "FAQs",
+        "href": "/doc/faq"
+      },
+      {
+        "label": "Tutorials",
+        "href": "/doc/tutorials"
+      },
+      {
+        "label": "DraCor Textbook",
+        "href": "https://dracor-org.github.io/dracor-textbook/"
+      }
+    ]
+  },
+  {
+    "label": "Tools",
+    "items": [
+      {
+        "label": "pydracor",
+        "href": "https://pypi.org/project/pydracor/"
+      },
+      {
+        "label": "rdracor",
+        "href": "https://github.com/dracor-org/rdracor"
+      },
+      {
+        "label": "SPARQL",
+        "href": "/sparql"
+      },
+      {
+        "label": "ezlinavis",
+        "href": "https://ezlinavis.dracor.org/"
+      }
+    ]
+  },
+  {
+    "label": "Research",
+    "items": [
+      {
+        "label": "Research Bibliography",
+        "href": "/doc/research"
+      },
+      {
+        "label": "Posters",
+        "href": "/doc/posters"
+      },
+      {
+        "label": "Card Games",
+        "href": "/doc/card-games"
+      },
+      {
+        "label": "DraCor in Science Communication",
+        "href": "/doc/science-comm"
+      }
+    ]
+  }
+]
