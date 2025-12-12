@@ -8,7 +8,7 @@ We collect three temporal statements for each play, if available:
 2. the year of first printing and
 3. the year of first performance.
 
-To easily sort plays chronologically, e.g., for a corpus overview or diagrams, we also calculate a »Normalised Year«. This year is usually the earlier date between the date of first printing and the year of first performance.
+To easily sort plays chronologically, e.g. for a corpus overview or diagrams, we also calculate a »Normalised Year«. This year is usually the earlier year of the year of first printing and the year of first performance.
 
 However, if a work was published or performed much later (more than 10 years) after its creation, the year of its creation is taken as »Normalised Year« (if it is a range of years, the last of them is taken). The reasoning behind this is that in a simple chronological classification, the context of origin is important, for example, when trying to describe literary evolution.
 
@@ -33,6 +33,8 @@ We plan to keep the API version 0.x available for at least a year (i.e., until t
 Please also see our blogpost, [»Streamlining the DraCor API«](https://weltliteratur.net/streamlining-the-dracor-api/).
 
 ## How Should I Cite DraCor in My Research?  
+
 If you would like to cite DraCor in general, please use the following reference:
-Fischer, Frank, et al. (2019). Programmable Corpora: Introducing DraCor, an Infrastructure for the Research on European Drama. In Proceedings of DH2019: "Complexities", Utrecht University, doi:[10.5281/zenodo.4284002](https://doi.org/10.5281/zenodo.4284002).  
+Fischer, Frank, et al. (2019). Programmable Corpora: Introducing DraCor, an Infrastructure for the Research on European Drama. In Proceedings of DH2019: »Complexities«, Utrecht University, doi:[10.5281/zenodo.4284002](https://doi.org/10.5281/zenodo.4284002).  
+
 If you use individual corpora for your research, you may cite them via Git commits for better reproducibility. For details, see Börner, Ingo; Trilcke, Peer: D7.3 On Versioning Living and Programmable Corpora. (Executable) Report and Prototypes for Reproducible Research (v1.0.0). Zenodo. doi:[10.5281/zenodo.11081934](https://doi.org/10.5281/zenodo.11081934), pp. 6–12.  
